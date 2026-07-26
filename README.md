@@ -43,10 +43,7 @@ The objective of this project was to design and implement a basic Local Area Net
 ## Repository Contents
 
 ```
-screenshots/
-│   ├── topology.png
-│   └── connectivity-test.png
-│
+
 ├── LAN-Topology.pkt
 ├── LAN-Topology.pdf
 └── README.md

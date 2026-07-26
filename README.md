@@ -64,7 +64,15 @@ The network was successfully tested after completing the configuration.
 The following connectivity tests were performed:
 
 - Laptop 1 → PC 2
+
+<img width="527" height="350" alt="image" src="https://github.com/user-attachments/assets/cb2e7828-092f-4602-927c-9c15c77e0c48" />
+
+  
 - PC 13 → Laptop 8
+
+<img width="522" height="370" alt="image" src="https://github.com/user-attachments/assets/3324e819-22fc-47d9-9df0-5562deba0841" />
+
+  
 - Simple PDU packet delivery
 
 All tests were successful, confirming that every device was properly configured and capable of communicating across the Local Area Network.

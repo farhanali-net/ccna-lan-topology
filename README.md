@@ -1,6 +1,6 @@
 # LAN Topology using Cisco Packet Tracer
 
-## Overview
+## Overview 
 
 This repository contains my first networking laboratory project completed as part of my **CCNA learning journey** using Cisco Packet Tracer.
 

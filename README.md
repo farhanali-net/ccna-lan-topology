@@ -3,7 +3,7 @@
 ## Overview 
 
 This repository contains my first networking laboratory project completed as part of my **CCNA learning journey** using Cisco Packet Tracer.
-
+ 
 The objective of this project was to design and implement a basic Local Area Network (LAN) consisting of two Cisco switches connected to multiple PCs and laptops. Each end device was configured with a unique IPv4 address, and network connectivity was verified through Simple PDU and ICMP ping tests. This lab provided practical experience in LAN design, IP addressing, and basic network troubleshooting.
 
 ---

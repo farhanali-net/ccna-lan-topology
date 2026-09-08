@@ -8,7 +8,7 @@ The objective of this project was to design and implement a basic Local Area Net
 
 --- 
 
-## Objectives
+## Objectives 
 
 - Design a basic LAN topology.
 - Connect end devices using Cisco switches.
